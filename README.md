@@ -16,7 +16,7 @@
  * navigate to the project's "src" folder
  * through the terminal type: "rmiregistry &" to start the RMI registry process
  * in the same terminal, or other pointing to the same directory, type:	
-		"java peer.Peer \<protocolVersion> \<serverID> \<accessPoint> \<MC>:<MCPort> \<MCB>:<MCBPort> \<MCR>:<MCRestore>"
+		"java peer.Peer \<protocolVersion> \<serverID> \<accessPoint> \<MC>:\<MCPort> \<MCB>:\<MCBPort> \<MCR>:\<MCRestore>"
 	example: java peer.Peer 1.0 1 remote 224.0.0.3:3333 224.0.0.3:4444 224.0.0.3:5555
 
 ## To START a Peer in WINDOWS: ##
@@ -24,7 +24,7 @@
  * open Comand Prompt, navigate to project's "src" folder
  * enter "start rmiregistry" to start the RMI registry process
  * in the same Command Prompt, or other pointing to the same directory, type:	
-		"java peer.Peer <protocolVersion> <serverID> <accessPoint> <MC>:<MCPort> <MCB>:<MCBPort> <MCR>:<MCRestore>"
+		"java peer.Peer \<protocolVersion> \<serverID> \<accessPoint> \<MC>:\<MCPort> \<MCB>:\<MCBPort> \<MCR>:\<MCRestore>"
 	example: java peer.Peer 1.0 1 remote 224.0.0.3:3333 224.0.0.3:4444 224.0.0.3:5555
 
 ## To RUN the TestApp in UNIX: ##
