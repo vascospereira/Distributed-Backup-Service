@@ -51,7 +51,7 @@
 
 ## DESCRIPTION of local files created by the peer application: ##
 
-	In 'peers' folder, each peer createas a new folder, which the name is the Peer own identifier, creates also a:
+	Inside 'peers' folder, each peer creates a new folder, which is the name's Peer identifier and creates also a:
 
  * 'backup' folder: Saves every backup initiated by other peers.
  * 'local' folder: Saves every information related to local initiated backups.
