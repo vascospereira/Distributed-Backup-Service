@@ -42,12 +42,12 @@
 
  * open Comand Prompt, navigate to project's "src" folder
  * through the Comand Prompt type:<br/>
-		<br/>"java TestApp <peer_access_point> BACKUP <filepath> <replication_degree>" or
+		<space><br/>"java TestApp <peer_access_point> BACKUP <filepath> <replication_degree>" or
 		<br/>"java TestApp <peer_access_point> RESTORE <filepath>" or
 		<br/>"java TestApp <peer_access_point> DELETE <filepath>" or
 		<br/>"java TestApp <peer_access_point> RECLAIM <space>" or
 		<br/>"java TestApp <peer_access_point> STATE" 
-	backup example: java TestApp remote backup ..\testfiles\nature.jpg 1
+	<br/>backup example: java TestApp remote backup ..\testfiles\nature.jpg 1
 
 ## DESCRIPTION of local files created by the peer application: ##
 
