@@ -31,11 +31,11 @@
 
  * navigate to the project's "src" folder
  * through the terminal type:<br/>
-		"java TestApp <peer_access_point> BACKUP <filepath> <replication_degree>" or
-		"java TestApp <peer_access_point> RESTORE <filepath>" or
-		"java TestApp <peer_access_point> DELETE <filepath>" or
-		"java TestApp <peer_access_point> RECLAIM <space>" or
-		"java TestApp <peer_access_point> STATE" 
+		<br/>"java TestApp <peer_access_point> BACKUP <filepath> <replication_degree>" or
+		<br/>"java TestApp <peer_access_point> RESTORE <filepath>" or
+		<br/>"java TestApp <peer_access_point> DELETE <filepath>" or
+		<br/>"java TestApp <peer_access_point> RECLAIM <space>" or
+		<br/>"java TestApp <peer_access_point> STATE" 
 	backup example: java test.TestApp remote backup ../testfiles/nature.jpg 1
     
 ## To RUN the TestApp in WINDOWS: ##
