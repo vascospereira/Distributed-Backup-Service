@@ -52,6 +52,6 @@
 ## DESCRIPTION of local files created by the peer application: ##
 
 	In "servers" folder (SDIS-01 -> servers), each peer createas a new folder, which the name is the Peer own identifier, creates also a:
- * BACKUP folder: Saves every backup initiated by other peers.
- * LOCAL folder: Saves every information related to local initiated backups.
- * RESTORE folder: Saves every restored file.
+ * 'backup' folder: Saves every backup initiated by other peers.
+ * 'local' folder: Saves every information related to local initiated backups.
+ * 'restore' folder: Saves every restored file.
