@@ -30,18 +30,18 @@
 ## To RUN the TestApp in UNIX: ##
 
  * navigate to the project's "src" folder
- * through the terminal type:\n
-		\n"java TestApp <peer_access_point> BACKUP <filepath> <replication_degree>" or
-		\n"java TestApp <peer_access_point> RESTORE <filepath>" or
-		\n"java TestApp <peer_access_point> DELETE <filepath>" or
-		\n"java TestApp <peer_access_point> RECLAIM <space>" or
-		\n"java TestApp <peer_access_point> STATE" 
+ * through the terminal type:<br/>
+		"java TestApp <peer_access_point> BACKUP <filepath> <replication_degree>" or
+		"java TestApp <peer_access_point> RESTORE <filepath>" or
+		"java TestApp <peer_access_point> DELETE <filepath>" or
+		"java TestApp <peer_access_point> RECLAIM <space>" or
+		"java TestApp <peer_access_point> STATE" 
 	backup example: java test.TestApp remote backup ../testfiles/nature.jpg 1
     
 ## To RUN the TestApp in WINDOWS: ##
 
  * open Comand Prompt, navigate to project's "src" folder
- * through the Comand Prompt type:
+ * through the Comand Prompt type:<br/>
 		"java TestApp <peer_access_point> BACKUP <filepath> <replication_degree>" or
 		"java TestApp <peer_access_point> RESTORE <filepath>" or
 		"java TestApp <peer_access_point> DELETE <filepath>" or
