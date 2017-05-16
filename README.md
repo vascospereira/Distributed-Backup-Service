@@ -18,7 +18,7 @@
  * in the same terminal, or other pointing to the same directory, type:	
 		<br/>"java peer.Peer \<protocolVersion> \<serverID> \<accessPoint> \<MC>:\<MCPort> \<MCB>:\<MCBPort> \<MCR>:\<MCRestore>"
 	<br/>example: 
-	java peer.Peer 1.0 1 remote 224.0.0.3:3333 224.0.0.3:4444 224.0.0.3:5555
+		java peer.Peer 1.0 1 remote 224.0.0.3:3333 224.0.0.3:4444 224.0.0.3:5555
 
 ## To START a Peer in WINDOWS: ##
 
@@ -27,7 +27,7 @@
  * in the same Command Prompt, or other pointing to the same directory, type:	
 		<br/>"java peer.Peer \<protocolVersion> \<serverID> \<accessPoint> \<MC>:\<MCPort> \<MCB>:\<MCBPort> \<MCR>:\<MCRestore>"
 	<br/>example: 
-	java peer.Peer 1.0 1 remote 224.0.0.3:3333 224.0.0.3:4444 224.0.0.3:5555
+		java peer.Peer 1.0 1 remote 224.0.0.3:3333 224.0.0.3:4444 224.0.0.3:5555
 
 ## To RUN the TestApp in UNIX: ##
 
@@ -39,7 +39,7 @@
 		<br/>"java test.TestApp <peer_access_point> RECLAIM <space>" or
 		<br/>"java test.TestApp <peer_access_point> STATE" 
 	<br/>backup example: 
-	java test.TestApp remote backup ../testfiles/nature.jpg 1
+		java test.TestApp remote backup ../testfiles/nature.jpg 1
     
 ## To RUN the TestApp in WINDOWS: ##
 
@@ -51,7 +51,7 @@
 		<br/>"java test.TestApp <peer_access_point> RECLAIM <space>" or
 		<br/>"java test.TestApp <peer_access_point> STATE" 
 	<br/>backup example: 
-	java test.TestApp remote backup ..\testfiles\nature.jpg 1
+		java test.TestApp remote backup ..\testfiles\nature.jpg 1
 
 ## DESCRIPTION of local files created by the peer application: ##
 
