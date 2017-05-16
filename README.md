@@ -39,7 +39,7 @@
 		<br/>"java test.TestApp <peer_access_point> RECLAIM <space>" or
 		<br/>"java test.TestApp <peer_access_point> STATE" 
 	<br/>backup example: 
-		java test.TestApp remote backup ../testfiles/nature.jpg 1
+		<br/>java test.TestApp remote backup ../testfiles/nature.jpg 1
     
 ## To RUN the TestApp in WINDOWS: ##
 
@@ -50,8 +50,8 @@
 		<br/>"java test.TestApp <peer_access_point> DELETE <filepath>" or
 		<br/>"java test.TestApp <peer_access_point> RECLAIM <space>" or
 		<br/>"java test.TestApp <peer_access_point> STATE" 
-	<br/>backup example: 
-		java test.TestApp remote backup ..\testfiles\nature.jpg 1
+	<br/>Backup example: 
+		<br/>java test.TestApp remote backup ..\testfiles\nature.jpg 1
 
 ## DESCRIPTION of local files created by the peer application: ##
 
