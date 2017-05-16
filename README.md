@@ -42,7 +42,7 @@
 
  * open Comand Prompt, navigate to project's "src" folder
  * through the Comand Prompt type:<br/>
-		<space><br/>"java TestApp <peer_access_point> BACKUP <filepath> <replication_degree>" or
+		+<br/>"java TestApp <peer_access_point> BACKUP <filepath> <replication_degree>" or
 		<br/>"java TestApp <peer_access_point> RESTORE <filepath>" or
 		<br/>"java TestApp <peer_access_point> DELETE <filepath>" or
 		<br/>"java TestApp <peer_access_point> RECLAIM <space>" or
