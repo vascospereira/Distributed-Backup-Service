@@ -31,22 +31,22 @@
 
  * navigate to the project's "src" folder
  * through the terminal type:<br/>
-		<br/>"java TestApp <peer_access_point> BACKUP <filepath> <replication_degree>" or
-		<br/>"java TestApp <peer_access_point> RESTORE <filepath>" or
-		<br/>"java TestApp <peer_access_point> DELETE <filepath>" or
-		<br/>"java TestApp <peer_access_point> RECLAIM <space>" or
-		<br/>"java TestApp <peer_access_point> STATE" 
+		<br/>"java test.TestApp <peer_access_point> BACKUP <filepath> <replication_degree>" or
+		<br/>"java test.TestApp <peer_access_point> RESTORE <filepath>" or
+		<br/>"java test.TestApp <peer_access_point> DELETE <filepath>" or
+		<br/>"java test.TestApp <peer_access_point> RECLAIM <space>" or
+		<br/>"java test.TestApp <peer_access_point> STATE" 
 	<br/>backup example: java test.TestApp remote backup ../testfiles/nature.jpg 1
     
 ## To RUN the TestApp in WINDOWS: ##
 
  * open Comand Prompt, navigate to project's "src" folder
  * through the Comand Prompt type:<br/>
-		<br/>"java TestApp <peer_access_point> BACKUP <filepath> <replication_degree>" or
-		<br/>"java TestApp <peer_access_point> RESTORE <filepath>" or
-		<br/>"java TestApp <peer_access_point> DELETE <filepath>" or
-		<br/>"java TestApp <peer_access_point> RECLAIM <space>" or
-		<br/>"java TestApp <peer_access_point> STATE" 
+		<br/>"java test.TestApp <peer_access_point> BACKUP <filepath> <replication_degree>" or
+		<br/>"java test.TestApp <peer_access_point> RESTORE <filepath>" or
+		<br/>"java test.TestApp <peer_access_point> DELETE <filepath>" or
+		<br/>"java test.TestApp <peer_access_point> RECLAIM <space>" or
+		<br/>"java test.TestApp <peer_access_point> STATE" 
 	<br/>backup example: java test.TestApp remote backup ..\testfiles\nature.jpg 1
 
 ## DESCRIPTION of local files created by the peer application: ##
