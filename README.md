@@ -31,7 +31,8 @@
 
  * navigate to the project's "src" folder
  * through the terminal type:<br/>
-		+ <br/>"java TestApp <peer_access_point> BACKUP <filepath> <replication_degree>" or
+ 	+
+		<br/>"java TestApp <peer_access_point> BACKUP <filepath> <replication_degree>" or
 		<br/>"java TestApp <peer_access_point> RESTORE <filepath>" or
 		<br/>"java TestApp <peer_access_point> DELETE <filepath>" or
 		<br/>"java TestApp <peer_access_point> RECLAIM <space>" or
