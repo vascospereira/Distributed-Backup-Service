@@ -2,13 +2,13 @@
 
 ## To COMPILE in UNIX: ##
 
- * using a terminal, navigate to the project's root folder (SDIS-01)	
+ * using a terminal, navigate to the project's root folder
  * cd to "scripts" subfolder and enter "chmod 755 compile.sh"	
  * followed by "./compile.sh"
 
 ## To COMPILE in WINDOWS: ##
 
- * through Command Prompt, navigate to root project Folder (SDIS-01)	
+ * through Command Prompt, navigate to root project folder
  * cd to "scripts" subfolder and enter "compile.bat"	
 
 ## To START a Peer in UNIX: ##
@@ -29,7 +29,7 @@
 
 ## To RUN the TestApp in UNIX: ##
 
- * navigate to the project's "src" folder (SDIS-01/src)
+ * navigate to the project's "src" folder
  * through the terminal type:
 		"java TestApp <peer_access_point> BACKUP <filepath> <replication_degree>" or
 		"java TestApp <peer_access_point> RESTORE <filepath>" or
