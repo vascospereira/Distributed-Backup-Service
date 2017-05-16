@@ -1,0 +1,11 @@
+cd ..\src
+DEL test\*.class
+DEL fileManager\*.class
+DEL localSubprotocols\*.class
+DEL message\*.class
+DEL multicastThread\*.class
+DEL peer\*.class
+DEL remoteSubprotocols\*.class
+DEL supportThreads\*.class
+DEL util\*.class
+cd ..\scripts

@@ -1,0 +1,11 @@
+# Compile
+cd ../src
+javac test/*.java
+javac fileManager/*.java
+javac localSubprotocols/*.java
+javac message/*.java
+javac multicastThread/*.java
+javac peer/*.java
+javac remoteSubprotocols/*.java
+javac supportThreads/*.java
+javac util/*.java

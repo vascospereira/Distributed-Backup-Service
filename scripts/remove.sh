@@ -1,0 +1,11 @@
+# Compile
+cd ../src
+rm test/*.class
+rm fileManager/*.class
+rm localSubprotocols/*.class
+rm message/*.class
+rm multicastThread/*.class
+rm peer/*.class
+rm remoteSubprotocols/*.class
+rm supportThreads/*.class
+rm util/*.class
