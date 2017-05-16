@@ -1,4 +1,4 @@
-# README #
+# Distributed System Configuration #
 
 ## To COMPILE in UNIX: ##
 
