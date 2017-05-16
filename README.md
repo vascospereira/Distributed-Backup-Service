@@ -31,10 +31,10 @@
 
  * navigate to the project's "src" folder
  * through the terminal type:
-		<br/>"java test.TestApp <peer_access_point> BACKUP <filepath> <replication_degree>" or
-		<br/>"java test.TestApp <peer_access_point> RESTORE <filepath>" or
-		<br/>"java test.TestApp <peer_access_point> DELETE <filepath>" or
-		<br/>"java test.TestApp <peer_access_point> RECLAIM <space>" or
+		<br/>"java test.TestApp <peer_access_point> BACKUP \<filepath> <replication_degree>" or
+		<br/>"java test.TestApp <peer_access_point> RESTORE \<filepath>" or
+		<br/>"java test.TestApp <peer_access_point> DELETE \<filepath>" or
+		<br/>"java test.TestApp <peer_access_point> RECLAIM \<space>" or
 		<br/>"java test.TestApp <peer_access_point> STATE" 
 	<br/>backup example: java test.TestApp remote backup ../testfiles/nature.jpg 1
     
@@ -42,10 +42,10 @@
 
  * open Comand Prompt, navigate to project's "src" folder
  * through the Comand Prompt type:
-		<br/>"java test.TestApp <peer_access_point> BACKUP <filepath> <replication_degree>" or
-		<br/>"java test.TestApp <peer_access_point> RESTORE <filepath>" or
-		<br/>"java test.TestApp <peer_access_point> DELETE <filepath>" or
-		<br/>"java test.TestApp <peer_access_point> RECLAIM <space>" or
+		<br/>"java test.TestApp <peer_access_point> BACKUP \<filepath> \<replication_degree>" or
+		<br/>"java test.TestApp <peer_access_point> RESTORE \<filepath>" or
+		<br/>"java test.TestApp <peer_access_point> DELETE \<filepath>" or
+		<br/>"java test.TestApp <peer_access_point> RECLAIM \<space>" or
 		<br/>"java test.TestApp <peer_access_point> STATE" 
 	<br/>backup example: java test.TestApp remote backup ..\testfiles\nature.jpg 1
 
